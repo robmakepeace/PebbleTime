@@ -1,0 +1,56 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_HISTORY": 4,
+        "KEY_ID": 3,
+        "KEY_SCORE": 2,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "robmakepeace@hotmail.com",
+    "longName": "CRICKET",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/scg.bmp",
+                "menuIcon": true,
+                "name": "IMAGE_BACKGROUND_SCG",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_10",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "CRICKET",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "00680093-ccf1-4242-8f81-dcdf733281fc",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
